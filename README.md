@@ -3,12 +3,6 @@ Hi! Servus! 👋 I'm Felix
 </h1>
 </br>
 
-<h2 align="center">
-I'm a Quantum Researcher 🥽⚛️🌌, Negotiation Trainer 🤝💬📝, and Hobby Developer 👨‍💻💻☁️
-</h2> 
-</br>
-
-### 📮✒️If you have any question or feedback, please do not hesitate to reach out to me!
 </br>
 
 <div align="center">
@@ -20,35 +14,36 @@ I'm a Quantum Researcher 🥽⚛️🌌, Negotiation Trainer 🤝💬📝, and H
 </div>
 </br>
 
+<h2 align="center">
+I'm a Quantum Researcher 🥽⚛️🌌, Negotiation Trainer 🤝💬📝, and Hobby Developer 👨‍💻💻☁️
+</h2> 
+</br>
+
+
 ## 🔭🐣 My current projects
 
-- Photonic quantum cloud computing platform
+- Backend for photonic quantum cloud computing platform
 - Jupyter Notebooks for postprocessing photonic measurements
 - Backend for digital resume
 
 ## 🌱🧠 I'm currently learning
 
-- Algorithmic programming with Python
-- Cloud Architecture
-- Quantum Optics Theory
-
-## 📚📓 I'm currently reading
-
-- Siddhartha
+- Web programming
+- Cloud architecture & CI/CD
+- Quantum optics theory
 
 </br>
 
+---
 
 <h2 align="center">
 📱☁️ My Tech Stack
 </h2> 
-
 </br>
 
 ### Backend
 ![Python](./img/python-icon.svg)
 ![Django](./img/djangoproject-icon.svg)
-
 </br>
 
 ### DevOps & Cloud
@@ -60,7 +55,6 @@ I'm a Quantum Researcher 🥽⚛️🌌, Negotiation Trainer 🤝💬📝, and H
 ![Ingress](./img/ingress-icon.svg)
 ![Cloudflare](./img/cloudflare-icon.svg)
 ![VMWare](./img/icons8-vmware.svg)
-
 </br>
 
 ### Tools
@@ -68,7 +62,6 @@ I'm a Quantum Researcher 🥽⚛️🌌, Negotiation Trainer 🤝💬📝, and H
 ![Jupyter](./img/jupyter-icon.svg)
 ![Postman](./img/getpostman-icon.svg)
 ![JIRA](./img/atlassian_jira-icon.svg)
-
 </br>
 
 ### System 
@@ -76,8 +69,6 @@ I'm a Quantum Researcher 🥽⚛️🌌, Negotiation Trainer 🤝💬📝, and H
 ![SAP](./img/sap-icon.svg)
 
 </br>
-
----
 
 ## 📈📊 My Statistics
 <p>

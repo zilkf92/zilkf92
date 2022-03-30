@@ -14,27 +14,25 @@ Hi! Servus! 👋 I'm Felix
 </div>
 </br>
 
-<h2 align="center">
+<h3 align="center">
 I'm a Quantum Researcher 🥽⚛️🌌, Negotiation Trainer 🤝💬📝, and Hobby Developer 👨‍💻💻☁️
-</h2> 
+</h3> 
 </br>
 
 
-## 🔭🐣 My current projects
+### 🔭🐣 My current projects
 
 - Backend for photonic quantum cloud computing platform
 - Jupyter Notebooks for postprocessing photonic measurements
 - Backend for digital resume
 
-## 🌱🧠 I'm currently learning
+### 🌱🧠 I'm currently learning
 
 - Web programming
 - Cloud architecture & CI/CD
 - Quantum optics theory
 
 </br>
-
----
 
 <h2 align="center">
 📱☁️ My Tech Stack

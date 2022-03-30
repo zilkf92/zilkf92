@@ -10,7 +10,6 @@ Hi! Servus! 👋 I'm Felix
 <a href="mailto:zilk.felix@gmail.com" target="blank"><img src="./img/gmail-icon.svg" alt="zilk.felix@gmail.com"/></a>
 </p>
 </div>
-</br>
 
 <h2 align="center">
 I'm a Quantum Researcher 🥽⚛️🌌, Negotiation Trainer 🤝💬📝, and Hobby Developer 👨‍💻💻☁️

@@ -15,7 +15,6 @@ Hi! Servus! 👋 I'm Felix
 <h3 align="center">
 I'm a Quantum Researcher 🥽⚛️🌌, Negotiation Trainer 🤝💬📝, and Hobby Developer 👨‍💻💻☁️
 </h3> 
-</br>
 
 ### 🔭🐣 My current projects
 
@@ -33,7 +32,6 @@ I'm a Quantum Researcher 🥽⚛️🌌, Negotiation Trainer 🤝💬📝, and H
 <h2 align="center">
 📱☁️ My Tech Stack
 </h2> 
-</br>
 
 ### Backend
 ![Python](./img/python-icon.svg)

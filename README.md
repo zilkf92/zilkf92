@@ -1,13 +1,12 @@
-<h2 align="center">
+<h1 align="center">
 Hi! Servus! 👋 I'm Felix
-</h2>
+</h1>
 </br>
 
 <h2 align="center">
 I'm a Quantum Researcher 🥽⚛️🌌, Negotiation Trainer 🤝💬📝, and Hobby Developer 👨‍💻💻☁️
 </h2> 
-
----
+</br>
 
 ### 📮✒️If you have any question or feedback, please do not hesitate to reach out to me!
 </br>
@@ -19,7 +18,6 @@ I'm a Quantum Researcher 🥽⚛️🌌, Negotiation Trainer 🤝💬📝, and H
 <a href="mailto:zilk.felix@gmail.com" target="blank"><img src="./img/gmail-icon.svg" alt="zilk.felix@gmail.com"/></a>
 </p>
 </div>
-
 </br>
 
 ## 🔭🐣 My current projects
@@ -38,12 +36,13 @@ I'm a Quantum Researcher 🥽⚛️🌌, Negotiation Trainer 🤝💬📝, and H
 
 - Siddhartha
 
-
 </br>
 
----
 
-## 📱☁️ My Tech Stack
+<h2 align="center">
+📱☁️ My Tech Stack
+</h2> 
+
 </br>
 
 ### Backend

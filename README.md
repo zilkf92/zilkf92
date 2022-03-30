@@ -3,8 +3,6 @@ Hi! Servus! 👋 I'm Felix
 </h1>
 </br>
 
-</br>
-
 <div align="center">
 <a href="https://instagram.com/spektralsatz" target="blank"><img src="./img/instagram-icon.svg" alt="spektralsatz"/></a>
 <a href="https://twitter.com/spektralsatz1" target="blank"><img src="./img/twitter-icon.svg" alt="spektralsatz1"/></a>
@@ -19,7 +17,6 @@ I'm a Quantum Researcher 🥽⚛️🌌, Negotiation Trainer 🤝💬📝, and H
 </h3> 
 </br>
 
-
 ### 🔭🐣 My current projects
 
 - Backend for photonic quantum cloud computing platform
@@ -31,7 +28,6 @@ I'm a Quantum Researcher 🥽⚛️🌌, Negotiation Trainer 🤝💬📝, and H
 - Web programming
 - Cloud architecture & CI/CD
 - Quantum optics theory
-
 </br>
 
 <h2 align="center">
@@ -65,7 +61,6 @@ I'm a Quantum Researcher 🥽⚛️🌌, Negotiation Trainer 🤝💬📝, and H
 ### System 
 ![Ubuntu](./img/ubuntu-icon.svg)
 ![SAP](./img/sap-icon.svg)
-
 </br>
 
 ## 📈📊 My Statistics

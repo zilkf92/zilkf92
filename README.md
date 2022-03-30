@@ -26,7 +26,6 @@ I'm a Quantum Researcher 🥽⚛️🌌, Negotiation Trainer 🤝💬📝, and H
 - Web programming
 - Cloud architecture & CI/CD
 - Quantum optics theory
-</br>
 
 <h2 align="center">
 📱☁️ My Tech Stack

@@ -12,9 +12,9 @@ Hi! Servus! 👋 I'm Felix
 </div>
 </br>
 
-<h3 align="center">
+<h2 align="center">
 I'm a Quantum Researcher 🥽⚛️🌌, Negotiation Trainer 🤝💬📝, and Hobby Developer 👨‍💻💻☁️
-</h3> 
+</h2> 
 
 ### 🔭🐣 My current projects
 

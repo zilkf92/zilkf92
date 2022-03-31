@@ -11,7 +11,7 @@ Hi! Servus! 👋 I'm Felix
 </div>
 
 <h2 align="center">
-I'm a Quantum Researcher 🥽⚛️🌌 Negotiation Trainer 🤝💬📝 and Hobby Developer 👨‍💻💻☁️
+I'm a Quantum Researcher 🥽⚛️ Negotiation Trainer 🤝💬 and Hobby Developer 👨‍💻💻
 </h2> 
 
 ### 🔭🐣 My current projects

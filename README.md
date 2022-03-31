@@ -58,7 +58,10 @@ I'm a Quantum Researcher 🥽⚛️ Negotiation Trainer 🤝💬 and Hobby Devel
 ![SAP](./icons/sap-icon.svg)
 </br>
 
-## 📈📊 My Statistics
+<h2 align="center">
+📈📊 My Statistics
+</h2> 
+
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zilkf92&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zilkf92&exclude_repo=Spikes,Neuromatch-Academy-2020&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>

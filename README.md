@@ -31,31 +31,31 @@ I'm a Quantum Researcher 🥽⚛️🌌 Negotiation Trainer 🤝💬📝 and Hob
 </h2> 
 
 ### Backend
-![Python](./img/python-icon.svg)
-![Django](./img/djangoproject-icon.svg)
+![Python](./icons/python-icon.svg)
+![Django](./icons/djangoproject-icon.svg)
 </br>
 
 ### DevOps & Cloud
-![Git](./img/git-scm-icon.svg)
-![GitHub](./img/github-icon.svg)
-![Vagrant](./img/vagrantup-icon.svg)
-![Docker](./img/docker-icon.svg)
-![Argo](./img/argoprojio-icon.svg)
-![Ingress](./img/ingress-icon.svg)
-![Cloudflare](./img/cloudflare-icon.svg)
-![VMWare](./img/icons8-vmware.svg)
+![Git](./icons/git-scm-icon.svg)
+![GitHub](./icons/github-icon.svg)
+![Vagrant](./icons/vagrantup-icon.svg)
+![Docker](./icons/docker-icon.svg)
+![Argo](./icons/argoprojio-icon.svg)
+![Ingress](./icons/ingress-icon.svg)
+![Cloudflare](./icons/cloudflare-icon.svg)
+![VMWare](./icons/icons8-vmware.svg)
 </br>
 
 ### Tools
-![Visual Studio Code](./img/visualstudio_code-icon.svg)
-![Jupyter](./img/jupyter-icon.svg)
-![Postman](./img/getpostman-icon.svg)
-![JIRA](./img/atlassian_jira-icon.svg)
+![Visual Studio Code](./icons/visualstudio_code-icon.svg)
+![Jupyter](./icons/jupyter-icon.svg)
+![Postman](./icons/getpostman-icon.svg)
+![JIRA](./icons/atlassian_jira-icon.svg)
 </br>
 
 ### System 
-![Ubuntu](./img/ubuntu-icon.svg)
-![SAP](./img/sap-icon.svg)
+![Ubuntu](./icons/ubuntu-icon.svg)
+![SAP](./icons/sap-icon.svg)
 </br>
 
 ## 📈📊 My Statistics

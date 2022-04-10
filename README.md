@@ -19,6 +19,7 @@ I'm a Quantum Researcher 🥽⚛️ Negotiation Trainer 🤝💬 and Hobby Devel
 - Backend for photonic quantum cloud computing platform
 - Jupyter Notebooks for postprocessing photonic measurements
 - Backend for digital resume
+- Backend for quantum prisoner's dilemma game web application
 
 ### 🌱🧠 I'm currently learning
 

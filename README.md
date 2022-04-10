@@ -31,9 +31,10 @@ I'm a Quantum Researcher 🥽⚛️ Negotiation Trainer 🤝💬 and Hobby Devel
 📱☁️ My Tech Stack
 </h2> 
 
-### Backend
+### Languages & Frameworks
 ![Python](./icons/python-icon.svg)
 ![Django](./icons/djangoproject-icon.svg)
+![Qiskit](./icons/Qiskit-Logo.svg)
 </br>
 
 ### DevOps & Cloud

@@ -14,61 +14,89 @@ Hi! Servus! 👋 I'm Felix
 I'm a Quantum Researcher 🥽⚛️ Negotiation Trainer 🤝💬 and Hobby Developer 👨‍💻💻
 </h2> 
 
-### 🔭🐣 My current projects
+<h3 align="left">
+🔭🐣 My current projects
+</h3> 
 
-- Backend for photonic quantum cloud computing platform
-- Jupyter Notebooks for postprocessing photonic measurements
-- Backend for digital resume
+<p>
+- Backend for photonic quantum cloud computing platform <br />
+- Jupyter Notebooks for postprocessing photonic measurements <br />
+- Backend for digital resume <br />
 - Backend for quantum prisoner's dilemma game web application
+<br />
+</p>
 
-### 🌱🧠 I'm currently learning
+<h3 align="left">
+🌱🧠 I'm currently learning
+</h3> 
 
-- Web programming
-- Cloud architecture & CI/CD
-- Quantum optics theory
+<p>
+- Web programming <br />
+- Cloud architecture <br />
+- Compiler development
+<br />
+</p>
 
 <h2 align="center">
 📱☁️ My Tech Stack
 </h2> 
 
-### Languages & Frameworks
-![Python](./icons/python-icon.svg)
-![Django](./icons/djangoproject-icon.svg)
-![Qiskit](./icons/Qiskit-Logo.svg)
-</br>
+<h3 align="left">
+Languages & Frameworks
+</h3> 
 
-### DevOps & Cloud
-![Git](./icons/git-scm-icon.svg)
-![GitHub](./icons/github-icon.svg)
-![Vagrant](./icons/vagrantup-icon.svg)
-![Docker](./icons/docker-icon.svg)
-![Argo](./icons/argoprojio-icon.svg)
-![Ingress](./icons/ingress-icon.svg)
-![Cloudflare](./icons/cloudflare-icon.svg)
-![VMWare](./icons/icons8-vmware.svg)
-</br>
+  <img align="left" alt="Python" width="48px" src="./icons/python-icon.svg" />
+  <img align="left" alt="Django" width="48px" src="./icons/djangoproject-icon.svg" />
+  <img align="left" alt="Qiskit" width="48px" src="./icons/Qiskit-Logo.svg" />
+<br>
+<br>
+<br>
 
-### Tools
-![Visual Studio Code](./icons/visualstudio_code-icon.svg)
-![Jupyter](./icons/jupyter-icon.svg)
-![Postman](./icons/getpostman-icon.svg)
-![JIRA](./icons/atlassian_jira-icon.svg)
-</br>
+<h3 align="left">
+DevOps & Cloud
+</h3>
 
-### System 
-![Ubuntu](./icons/ubuntu-icon.svg)
-![SAP](./icons/sap-icon.svg)
-</br>
+
+  <img align="left" alt="Git" width="48px" src="./icons/git-scm-icon.svg" />
+  <img align="left" alt="GitHub" width="48px" src="./icons/github-icon.svg" />
+  <img align="left" alt="Vagrant" width="48px" src="./icons/vagrantup-icon.svg" />
+  <img align="left" alt="Docker" width="48px" src="./icons/docker-icon.svg" />
+  <img align="left" alt="Cloudflare" width="48px" src="./icons/cloudflare-icon.svg" />
+  <img align="left" alt="VMWare" width="48px" src="./icons/icons8-vmware.svg" />
+<br>
+<br>
+<br>
+
+<h3 align="left">
+Tools
+</h3>
+
+  <img align="left" alt="Visual Studio Code" width="48px" src="./icons/visualstudio_code-icon.svg" />
+  <img align="left" alt="Jupyter" width="48px" src="./icons/jupyter-icon.svg" />
+  <img align="left" alt="Postman" width="48px" src="./icons/getpostman-icon.svg" />
+  <img align="left" alt="JIRA" width="48px" src="./icons/atlassian_jira-icon.svg" />
+<br>
+<br>
+<br>
+
+<h3 align="left">
+Systems
+</h3>
+
+  <img align="left" alt="Ubuntu" width="48px" src="./icons/ubuntu-icon.svg" />
+  <img align="left" alt="SAP" width="48px" src="./icons/sap-icon.svg" />
+<br>
+<br>
+<br>
 
 <h2 align="center">
 📈📊 My Statistics
 </h2> 
 
-<p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zilkf92&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zilkf92&exclude_repo=Spikes,Neuromatch-Academy-2020&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-</br>
+
+<br>
 
 > ### "When we seek to discover the best in others, we somehow bring out the best in ourselves." 
 > ### William Arthur Ward

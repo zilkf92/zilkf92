@@ -1,6 +1,6 @@
-<h1 align="center">
-Hi! Servus! 👋 I'm Felix
-</h1>
+<h2 align="center">
+🔽 My social media & Gmail 🔽
+</h2>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/felix-zilk/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Felix Zilk"/></a>
@@ -10,8 +10,11 @@ Hi! Servus! 👋 I'm Felix
 </p>
 </div>
 
+<h2 align="left">
+Talk to me about:
+</h2> 
 <h2 align="center">
-Quantum Information Science 🥽⚛️ Negotiation 🤝💬 Freetime Coding 👨‍💻💻
+Quantum Computing ⚛️🧮 Quantum Optics and Information Science 🥽✳️ Quantum Computing Software 👨‍💻💻 Negotiation and Conflict Management 🤝💬
 </h2> 
 
 <h3 align="left">
@@ -19,10 +22,8 @@ Quantum Information Science 🥽⚛️ Negotiation 🤝💬 Freetime Coding 👨
 </h3> 
 
 <p>
-- Backend for photonic quantum cloud computing platform <br />
-- Jupyter Notebooks for postprocessing photonic measurements <br />
-- Backend for digital resume <br />
-- Backend for quantum prisoner's dilemma game web application
+- Backend (Django) for digital resume <br />
+- Backend (Qiskit + Django) for quantum prisoner's dilemma game web application
 <br />
 </p>
 
@@ -31,9 +32,9 @@ Quantum Information Science 🥽⚛️ Negotiation 🤝💬 Freetime Coding 👨
 </h3> 
 
 <p>
-- Web programming <br />
-- Cloud architecture <br />
-- Compiler development
+- Web development <br />
+- Cloud and HPC architecture <br />
+- Compiler development for Quantum Computing
 <br />
 </p>
 

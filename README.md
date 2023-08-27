@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/felix-zilk/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Felix Zilk"/></a>
 <a href="https://twitter.com/spektralsatz1" target="blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="spektralsatz1"/></a>
-<a href="https://about.me/felix.zilk" target="blank"><img src="https://img.shields.io/badge/About.me-00A98F.svg?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="spektralsatz1"/></a>
+<a href="https://about.me/felixzilk" target="blank"><img src="https://img.shields.io/badge/About.me-00A98F.svg?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="spektralsatz1"/></a>
 
 </p>
 </div>

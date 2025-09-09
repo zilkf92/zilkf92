@@ -1,0 +1,9 @@
+# Normalize line endings and mark docs as text
+* text=auto
+
+# Treat local icons as vendored assets in GitHub language stats
+icons/* linguist-vendored
+
+# Hint: ensure README is UTF-8 in the working tree (for emoji/accents)
+README.md working-tree-encoding=UTF-8
+

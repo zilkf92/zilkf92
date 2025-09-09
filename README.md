@@ -47,12 +47,11 @@
 
 ## My GitHub Statistics
 
-<img height="180" alt="Felix’s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=zilkf92&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zilkf92&exclude_repo=Spikes,Neuromatch-Academy-2020&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180" alt="Felix’s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=zilkf92&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=86400" />
+<img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zilkf92&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400"/>
 
 ## Favorite Quote
 
 > "When we seek to discover the best in others, we somehow bring out the best in ourselves."
 >
 > — William Arthur Ward
-
